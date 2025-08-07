@@ -1,0 +1,10 @@
+pandas
+ipykernel
+numpy
+shiny
+matplotlib
+seaborn
+plotly
+shinylive
+shinywidgets
+h5py
