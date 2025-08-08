@@ -20,4 +20,4 @@ Open your web browser and navigate to `http://localhost:8008` to view the dashbo
 
 It should look something like this.
 
-![Screenshot of the dashboard](docs/dashboard_screenshot.png)
+![Screenshot of the dashboard](dashboard_screenshot.png)
