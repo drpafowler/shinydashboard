@@ -10,7 +10,7 @@ shinylive export app docs
 
 Then, you will see a command that looks like 
 
-'''bash
+```bash
 python3 -m http.server --directory docs --bind localhost 8008
 ```
 
